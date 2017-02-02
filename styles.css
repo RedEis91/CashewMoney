@@ -1,0 +1,56 @@
+@font-face 
+
+#extraheady{
+    display:fixed;
+}
+
+#heady {
+    text-align: center;
+    margin-bottom: 10px; 
+    margin-top: 10px;
+    size: 50%;
+    padding: 10px;
+}
+
+#navy {
+    font-size: 20px;
+}
+
+article {
+     border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    padding: 5px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#cashewmoneylogo2 {
+    margin: 5px;
+}
+
+#posttitle {
+    
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: mediumpurple;
+}
+
+/* mouse over link */
+a:hover {
+    color: mediumpurple;
+}
+
+.col-md-3 navbar {
+    display:fixed;
+}
+
